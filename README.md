@@ -14,7 +14,9 @@ HTML5
 
 CSS3
 
+🔹 How to view
 
+You can acess my udemy-clone project by visiting ( https://abdulbasheeth.github.io/TripAdvisor/) free to explore the content and get in touch!
 
 
 🚀 Future Improvements
